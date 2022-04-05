@@ -14,13 +14,13 @@ struct ContentView: View {
                 NavigationLink {
                     ConvertVzdialenostView()
                 } label: {
-                    LinkView(topColor: .blue, bottomColor: .cyan, headerTitle: "Vzdialenosť", titleImage: "image")
+                    LinkView(topColor: .blue, bottomColor: .cyan, headerTitle: "Vzdialenosť", titleImage: "imageKM")
                 }
                 
                 NavigationLink {
                     ConvertObjemView()
                 } label: {
-                    LinkView(topColor: .orange, bottomColor: .yellow, headerTitle: "Objem", titleImage: "image")
+                    LinkView(topColor: .orange, bottomColor: .yellow, headerTitle: "Objem", titleImage: "imageML")
                 }
             }
             
@@ -30,6 +30,7 @@ struct ContentView: View {
 //            }
             .navigationTitle("Konvertor")
         }
+        .navigationViewStyle(.stack)
     }
 }
 
