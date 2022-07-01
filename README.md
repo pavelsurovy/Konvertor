@@ -1,6 +1,6 @@
 # Konvertor
 
-iOS :iphone: aplikácia na zmenu jednotiek v rámci kurzu L2C :blue_book:.
+iOS :iphone: aplikácia na zmenu jednotiek v rámci kurzu (https://skillmea.sk)[Skillmea.sk] :blue_book:.
 Počas kurzu sa naučíme základy tvorby aplikácií pre Apple :green_apple: zariadenia.
 Dostaneme sa do štádia, kedy aplikácia bude plne funkčná a schopná prevádzať medzi metrickými :eu: a imperiálnymi :us: jednotkami **vzdialenosť** :straight_ruler::triangular_ruler: a **objem** :beer:.
 
